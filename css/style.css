@@ -233,3 +233,32 @@ h2 {
     }
 }
 
+/* --- Experience Section --- */
+.experience-item {
+    margin-bottom: 30px;
+}
+
+.experience-item h3 {
+    color: var(--primary-color);
+    margin-bottom: 5px;
+}
+
+.experience-details {
+    font-weight: bold;
+    color: var(--heading-color);
+    margin-bottom: 15px;
+}
+
+.experience-item ul {
+    list-style: disc;
+    padding-left: 20px;
+}
+
+/* --- Footer --- */
+.footer {
+    text-align: center;
+    padding: 30px 0;
+    margin-top: 40px;
+    background-color: var(--surface-color);
+    border-top: 1px solid var(--border-color);
+}
